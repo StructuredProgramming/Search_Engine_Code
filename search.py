@@ -1,4 +1,3 @@
-                                     
 from whoosh import index
 from whoosh.fields import Schema, TEXT
 from whoosh.index import create_in
